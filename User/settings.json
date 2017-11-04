@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "files.autoGuessEncoding": true,
+    "editor.mouseWheelZoom": true,
+    "editor.renderIndentGuides": true,
+    "editor.fontFamily": "Source Han Code JP, Menlo, Monaco",
+    "editor.wordWrap": "on",
+    "extensions.autoUpdate": true,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": true,
+    "editor.autoClosingBrackets": true,
+    "editor.selectionHighlight": true,
+    "editor.matchBrackets": true,
+    "files.associations": {
+        "*.template": "json"
+    },
+    "editor.fontSize": 12,
+    "window.restoreWindows": "none",
+    "window.zoomLevel": 0,
+    "markdown.styles":[
+        "/Users/sta/Documents/git/vscode-setting/User/markdown.css"
+    ],
+    "workbench.startupEditor": "newUntitledFile"
+}
