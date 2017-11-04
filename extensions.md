@@ -1,6 +1,6 @@
 # extensions
 
-- インストール済みの拡張機能の取得<br>
+- インストール済みの拡張機能確認<br>
 `code --list-extensions`
 ```
 ・1natsu.insert-br-tag
@@ -19,4 +19,3 @@
 
 - 拡張機能のインストール<br>
 `code --install-extension [拡張機能]`
-
