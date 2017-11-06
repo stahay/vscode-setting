@@ -20,5 +20,13 @@
     "markdown.styles":[
         "/Users/sta/Documents/git/vscode-setting/User/markdown.css"
     ],
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "shortcuts.buttons": [
+        "book , workbench.action.newWindow, Open newWindow",
+        "mail-reply , workbench.action.reloadWindow, reload Window",
+        "checklist , projectManager.listProjects, listProjects",
+        "tools , workbench.extensions.action.showInstalledExtensions, showInstalledExtensions",
+        "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel"
+    ]
 }
